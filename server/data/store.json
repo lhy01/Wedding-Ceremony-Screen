@@ -1,0 +1,661 @@
+{
+  "weddingConfig": {
+    "groom": "陆子昂",
+    "groomEn": "Ethan",
+    "bride": "林婉清",
+    "brideEn": "Clara",
+    "weddingDate": "2026-10-18",
+    "venue": "云顶庄园 · 水晶空中礼堂",
+    "slogan": "以爱之名 · 共度余生",
+    "subSlogan": "TWO HEARTS, ONE LOVE",
+    "welcomeText": "欢迎各位亲朋好友莅临见证我们的幸福时刻",
+    "activeMusicId": "m-02"
+  },
+  "screenSettings": {
+    "template": "champagne-gold",
+    "transition": "kenburns",
+    "fitMode": "cover",
+    "interval": 8,
+    "showStory": true,
+    "showDanmaku": true,
+    "danmakuSpeed": "normal",
+    "danmakuOpacity": 0.9,
+    "isPaused": true,
+    "musicPlaying": true,
+    "currentPhotoIndex": 17
+  },
+  "photos": [
+    {
+      "id": "p-06",
+      "url": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1920&q=80",
+      "title": "并肩漫步夕阳",
+      "date": "2024.11.05",
+      "location": "三亚 · 太阳湾日落海岸",
+      "story": "只要身边是你，无论看多少次日落都不会觉得平淡。",
+      "category": "daily",
+      "order": 6
+    },
+    {
+      "id": "p-08",
+      "url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1920&q=80",
+      "title": "良辰美景，敬余生",
+      "date": "2026.10.18",
+      "location": "今日大婚 · 礼堂宴会厅",
+      "story": "今天，感谢所有至亲好友一同见证，我们的小小家庭正式启程！",
+      "category": "welcoming",
+      "order": 8
+    },
+    {
+      "id": "p-1792072811546",
+      "order": 9,
+      "url": "/uploads/1792072808635-541709436.jpg",
+      "title": "13428940076086177",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811547",
+      "order": 10,
+      "url": "/uploads/1792072808718-732678794.jpg",
+      "title": "13428940116060660",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811548",
+      "order": 11,
+      "url": "/uploads/1792072808861-445070774.jpg",
+      "title": "13428940119400083",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811549",
+      "order": 12,
+      "url": "/uploads/1792072808949-616771143.jpg",
+      "title": "13428940121802245",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811549",
+      "order": 13,
+      "url": "/uploads/1792072809029-441788508.jpg",
+      "title": "13428940123820312",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811550",
+      "order": 14,
+      "url": "/uploads/1792072809096-117795580.jpg",
+      "title": "13428940125300977",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811551",
+      "order": 15,
+      "url": "/uploads/1792072809135-179595502.jpg",
+      "title": "13428940127270695",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811552",
+      "order": 16,
+      "url": "/uploads/1792072809201-604521353.jpg",
+      "title": "13428940129444819",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811553",
+      "order": 17,
+      "url": "/uploads/1792072809274-727751142.jpg",
+      "title": "13428940131426308",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811553",
+      "order": 18,
+      "url": "/uploads/1792072809338-34436602.jpg",
+      "title": "13428940132827702",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811554",
+      "order": 19,
+      "url": "/uploads/1792072809419-51503628.jpg",
+      "title": "13428940134068888",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811555",
+      "order": 20,
+      "url": "/uploads/1792072809474-460871391.jpg",
+      "title": "13428940135528721",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811555",
+      "order": 21,
+      "url": "/uploads/1792072809499-538568132.jpg",
+      "title": "13428940137095322",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811555",
+      "order": 22,
+      "url": "/uploads/1792072809551-180858829.jpg",
+      "title": "13428940138545065",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811556",
+      "order": 23,
+      "url": "/uploads/1792072809603-545912167.jpg",
+      "title": "13428940139992799",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811556",
+      "order": 24,
+      "url": "/uploads/1792072809656-994183344.jpg",
+      "title": "13428940141329125",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811557",
+      "order": 25,
+      "url": "/uploads/1792072809706-738361452.jpg",
+      "title": "13428940142978264",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811557",
+      "order": 26,
+      "url": "/uploads/1792072809759-343984378.jpg",
+      "title": "13428940144434867",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811557",
+      "order": 27,
+      "url": "/uploads/1792072809808-654478581.jpg",
+      "title": "13428940145719778",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811558",
+      "order": 28,
+      "url": "/uploads/1792072809867-312371694.jpg",
+      "title": "13428940147337885",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811558",
+      "order": 29,
+      "url": "/uploads/1792072809934-740841906.jpg",
+      "title": "13428940149099963",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811559",
+      "order": 30,
+      "url": "/uploads/1792072809989-716425928.jpg",
+      "title": "13428940150770600",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811559",
+      "order": 31,
+      "url": "/uploads/1792072810049-628663858.jpg",
+      "title": "13428940153086808",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811560",
+      "order": 32,
+      "url": "/uploads/1792072810093-371866022.jpg",
+      "title": "13428940154640580",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811560",
+      "order": 33,
+      "url": "/uploads/1792072810141-86935271.jpg",
+      "title": "13428940156320921",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811561",
+      "order": 34,
+      "url": "/uploads/1792072810190-919383005.jpg",
+      "title": "13428940158007290",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811561",
+      "order": 35,
+      "url": "/uploads/1792072810228-872902290.jpg",
+      "title": "13428940159580640",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811562",
+      "order": 36,
+      "url": "/uploads/1792072810274-898939827.jpg",
+      "title": "13428940161564851",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811562",
+      "order": 37,
+      "url": "/uploads/1792072810322-18213063.jpg",
+      "title": "13428940163281564",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811563",
+      "order": 38,
+      "url": "/uploads/1792072810371-904627206.jpg",
+      "title": "13428940164886717",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811563",
+      "order": 39,
+      "url": "/uploads/1792072810418-393135492.jpg",
+      "title": "13428940166459846",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811564",
+      "order": 40,
+      "url": "/uploads/1792072810469-27759375.jpg",
+      "title": "13428940168343314",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811565",
+      "order": 41,
+      "url": "/uploads/1792072810537-850350109.jpg",
+      "title": "13428940170200125",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811566",
+      "order": 42,
+      "url": "/uploads/1792072810637-560841717.jpg",
+      "title": "13428940173793506",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811566",
+      "order": 43,
+      "url": "/uploads/1792072810712-31405135.jpg",
+      "title": "13428940175104020",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811567",
+      "order": 44,
+      "url": "/uploads/1792072810748-130727369.jpg",
+      "title": "13428940176498142",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811567",
+      "order": 45,
+      "url": "/uploads/1792072810776-564699617.jpg",
+      "title": "13428940177744678",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811568",
+      "order": 46,
+      "url": "/uploads/1792072810811-815559075.jpg",
+      "title": "13428940179608908",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811569",
+      "order": 47,
+      "url": "/uploads/1792072810923-23643765.jpg",
+      "title": "13428940181689354",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811570",
+      "order": 48,
+      "url": "/uploads/1792072810972-219246618.jpg",
+      "title": "13428940183446125",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811570",
+      "order": 49,
+      "url": "/uploads/1792072811030-443644799.jpg",
+      "title": "13428940185126444",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811571",
+      "order": 50,
+      "url": "/uploads/1792072811070-169381545.jpg",
+      "title": "13428940186900249",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811571",
+      "order": 51,
+      "url": "/uploads/1792072811126-536025623.jpg",
+      "title": "13428940188273727",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811572",
+      "order": 52,
+      "url": "/uploads/1792072811148-642013910.jpg",
+      "title": "13428940189992543",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811572",
+      "order": 53,
+      "url": "/uploads/1792072811204-802307829.jpg",
+      "title": "13428940191112627",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811573",
+      "order": 54,
+      "url": "/uploads/1792072811227-208343191.jpg",
+      "title": "13428940192474686",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811573",
+      "order": 55,
+      "url": "/uploads/1792072811251-850197331.jpg",
+      "title": "13428940193864868",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811574",
+      "order": 56,
+      "url": "/uploads/1792072811271-795967001.jpg",
+      "title": "13428940195144926",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811574",
+      "order": 57,
+      "url": "/uploads/1792072811292-258351125.jpg",
+      "title": "13428940197005074",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811575",
+      "order": 58,
+      "url": "/uploads/1792072811346-331319197.jpg",
+      "title": "13428940198861123",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811575",
+      "order": 59,
+      "url": "/uploads/1792072811407-627131785.jpg",
+      "title": "13428940200487150",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811575",
+      "order": 60,
+      "url": "/uploads/1792072811463-889493715.jpg",
+      "title": "13428940202201311",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    },
+    {
+      "id": "p-1792072811576",
+      "order": 61,
+      "url": "/uploads/1792072811517-610087141.jpg",
+      "title": "13428942005681097",
+      "date": "2026.10.15",
+      "location": "婚礼现场甜蜜特辑",
+      "story": "美好瞬间，定格永恒。",
+      "category": "wedding"
+    }
+  ],
+  "musicList": [
+    {
+      "id": "m-01",
+      "name": "Canon in D (卡农 钢琴浪漫版)",
+      "artist": "Johann Pachelbel",
+      "url": "https://cdn.pixabay.com/download/audio/2022/05/16/audio_db6591201e.mp3?filename=romantic-wedding-love-112194.mp3"
+    },
+    {
+      "id": "m-02",
+      "name": "A Thousand Years (抒情大提琴)",
+      "artist": "The Piano Guys Style",
+      "url": "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3?filename=gentle-wedding-acoustic-guitar-15589.mp3"
+    },
+    {
+      "id": "m-03",
+      "name": "Sweet Wedding Day (轻快森系)",
+      "artist": "Acoustic Melody",
+      "url": "https://cdn.pixabay.com/download/audio/2022/10/25/audio_2c5f1cfb36.mp3?filename=wedding-love-123498.mp3"
+    }
+  ],
+  "blessings": [
+    {
+      "id": "b-01",
+      "sender": "伴娘团 · 佳佳",
+      "relation": "新娘闺蜜",
+      "avatar": "🌸",
+      "content": "新娘今天美绝了！Ethan你要一辈子对我们家婉清好哦！💖",
+      "time": "刚刚",
+      "likes": 88,
+      "status": "approved"
+    },
+    {
+      "id": "b-02",
+      "sender": "大学死党 · 阿杰",
+      "relation": "新郎兄弟",
+      "avatar": "🥂",
+      "content": "恭喜老陆终于抱得美人归！祝新婚快乐，白头偕老！",
+      "time": "1分钟前",
+      "likes": 66,
+      "status": "approved"
+    },
+    {
+      "id": "b-03",
+      "sender": "二姑妈",
+      "relation": "长辈亲属",
+      "avatar": "🏮",
+      "content": "郎才女貌，天作之合！祝侄儿媳妇早生贵子，甜甜蜜蜜！",
+      "time": "2分钟前",
+      "likes": 99,
+      "status": "approved"
+    },
+    {
+      "id": "b-04",
+      "sender": "同窗球友群",
+      "relation": "好友",
+      "avatar": "🎉",
+      "content": "球场少了个单身汉，世上多了个模范丈夫！干杯！🍻",
+      "time": "3分钟前",
+      "likes": 42,
+      "status": "approved"
+    },
+    {
+      "id": "b-05",
+      "sender": "婉清的表妹",
+      "relation": "亲属",
+      "avatar": "💍",
+      "content": "大屏放的照片太好看了！从校园走到婚礼，太好哭了呜呜呜",
+      "time": "4分钟前",
+      "likes": 77,
+      "status": "approved"
+    },
+    {
+      "id": "b-06",
+      "sender": "公司同事大家庭",
+      "relation": "同事伙伴",
+      "avatar": "✨",
+      "content": "祝两位新人以爱之名，共度余生，生活甜度超标！",
+      "time": "5分钟前",
+      "likes": 53,
+      "status": "approved"
+    }
+  ]
+}
